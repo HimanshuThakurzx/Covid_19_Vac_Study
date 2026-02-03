@@ -77,9 +77,3 @@ This project demonstrates how data visualization can convert raw health data int
 It highlights the importance of dashboards in supporting informed decision-making during large-scale events like a pandemic.
 
 ---
-
-## 🔗 Author
-**Aryan Jamwal**  
-📧 Email: aryanjamwalzx@gmail.com  
-🔗 LinkedIn: https://linkedin.com/in/aryanjamwalz  
-💻 GitHub: https://github.com/AryanJamwalzx
